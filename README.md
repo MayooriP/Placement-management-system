@@ -43,31 +43,15 @@ their USN, or set of records by each branch, or by the company name.
 
 ---
 
-Go through Gautham_PMS_report.pdf to understand more
+Go through Reports to understand more
 It has complete information regarding the project and its Implementation
 
 ---
 
 # SCHEMA DIAGRAM
 
-![diag](https://user-images.githubusercontent.com/85282195/181412024-2d45244f-4079-470b-bfc9-c0663e0c5a48.PNG)
+
 
 ---
 
 # APPLICATION
-
-## ![Home Page](https://user-images.githubusercontent.com/85282195/181412157-db9b9a62-df00-44d7-89f2-36ff912d5482.PNG)
-
-## ![InsertRecord](https://user-images.githubusercontent.com/85282195/181412197-93f48537-4ffb-408e-8a76-00322c3c3642.PNG)
-
-## ![Display](https://user-images.githubusercontent.com/85282195/181412247-bf0e5ec3-a62f-42b1-a692-20bc181292c7.PNG)
-
-## ![Search Main](https://user-images.githubusercontent.com/85282195/181412287-7d2caad7-6a46-4f0f-a766-ece99ab999bc.PNG)
-
-## ![SearchByBranch](https://user-images.githubusercontent.com/85282195/181412321-895f92e0-49a2-45d5-91f5-07cf96a011bc.png)
-
-## ![DeleteRecord](https://user-images.githubusercontent.com/85282195/181412388-6a270a52-fcec-4d8f-88e5-7cb36f4846b7.PNG)
-
-## ![Eligibility](https://user-images.githubusercontent.com/85282195/181412416-eb00fb58-fb9c-4628-b171-6087b629247c.PNG)
-
-## ![Ledger-ViewChanges](https://user-images.githubusercontent.com/85282195/181412446-40605e50-203b-45d8-acfd-35e43d33b5b8.PNG)
