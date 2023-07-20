@@ -1,0 +1,6 @@
+mayu|001|01|CSE|10|0|Amazon|24,00,000|nil|
+nischith|01|01|CSE|8.9|0|SAP_LABS|18,00,000|no|
+Ashwitha|013|06|ISE|9.8|0|Amazon|24,00,000|no|
+Mayoori|014|06|ISE|9|0|Amazon|24,00,000|no|
+nisc|32|07|ISE|5|0|SAP_LABS|18,00,000|no|
+kavya|9|04|ISE|9|0|Amazon|24,00,000|no|

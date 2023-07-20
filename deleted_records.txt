@@ -1,0 +1,2 @@
+test5|567|01|CSE|9|0|Amazon|24,00,000|no|
+Mayoori P|12|06|ISE|8|0|Ebay|15,00,000|no |
