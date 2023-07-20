@@ -48,7 +48,8 @@ It has complete information regarding the project and its Implementation
 
 ---
 
-# SCHEMA DIAGRAM
+# USECASE DIAGRAM
+<img src="schema.png" />
 
 
 
@@ -57,7 +58,7 @@ It has complete information regarding the project and its Implementation
 # APPLICATION
 <img src="1.png" /><br><p> This is the main page that is displayed while running the code </P>
 <img src="2.png" /><br>
--Inserting the student details.
+   Inserting the student details.
 <img src="3.png" /><br>
 <img src="4.png" /><br>
 <img src="5.png" /><br>
