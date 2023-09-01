@@ -18,7 +18,9 @@ Placement Management System offers the following functionalities:
 - Eligibility: Placement eligibility of all students can be viewed where each student details are
   displayed according to their eligibility criteria and which company they are eligible to.
 
+
 ---
+
 
 # Typical Features include:
 
@@ -50,7 +52,6 @@ It has complete information regarding the project and its Implementation
 
 # USECASE DIAGRAM
 <img src="schema.png" />
-
 
 
 ---
